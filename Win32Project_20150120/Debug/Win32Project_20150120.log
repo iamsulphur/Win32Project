@@ -1,5 +1,5 @@
-﻿生成启动时间为 2015-01-22 21:12:45。
-     1>项目“C:\Code\Win32Project\Win32Project_20150120\Win32Project_20150120.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2015-01-22 21:39:17。
+     1>项目“C:\Code\Win32Project\Win32Project_20150120\Win32Project_20150120.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Win32Project_20150120.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
          stdafx.cpp
@@ -12,8 +12,8 @@
          Debug\stdafx.obj
          Debug\Win32Project_20150120.obj
          Win32Project_20150120.vcxproj -> C:\Code\Win32Project\Debug\Win32Project_20150120.exe
-     1>已完成生成项目“C:\Code\Win32Project\Win32Project_20150120\Win32Project_20150120.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“C:\Code\Win32Project\Win32Project_20150120\Win32Project_20150120.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.89
+已用时间 00:00:00.81

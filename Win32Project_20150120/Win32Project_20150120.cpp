@@ -200,6 +200,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			TextOut(hdc, 800, 800, szTotal, wsprintf(szTotal, TEXT("%d:%d"), times, number));
 
 			EndPaint(hWnd, &ps);
+			DeleteObject(hFont);
 
 			break;
 		case WM_DESTROY:
